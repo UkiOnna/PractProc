@@ -1,0 +1,16 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\bin\Debug\ProcessPract.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\bin\Debug\ProcessPract.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\bin\Debug\ProcessPract.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessPract.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessInfo.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ProcessPract\ProcessPract\obj\Debug\ProcessInfo.baml
